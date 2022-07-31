@@ -43,7 +43,7 @@
   position: relative;
   align-items: center;
   padding-inline: 100px;
-  min-height: calc(100vh - 93px);
+  height: 620px;
   justify-content: space-between;
   background-color: var(--background);
 }
